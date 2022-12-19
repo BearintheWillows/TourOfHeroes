@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
-import { HeroesComponent } from '../Heroes/Heroes.component';
+import { HeroesComponent } from '../heroes/Heroes.component';
 import { FormsModule } from '@angular/forms';
 
 @NgModule({
